@@ -19,7 +19,7 @@ Para modificar el código es requerido un editor de texto plano y un navegador w
  * [**Eugenia Moreno**](https://github.com/Eugemo)
  * [**Nahuel Ríos**](https://github.com/mnrios1997)
  * [**Miguel Santillán**](https://github.com/michysantillan)
- * [**Javier Agüero**](https://github.com/)
+ * [**Javier Agüero**](https://github.com/agueroj)
 
 ## Descargo de responsabilidad:
 
