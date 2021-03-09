@@ -1,4 +1,12 @@
 /* Three columns side by side */
+body{
+  background-image: url(image/bg-body.jpg)
+}
+
+h1{
+  text-align: center;
+}
+
 .column {
     float: left;
     width: 25%;
@@ -33,6 +41,7 @@
   
   .title {
     color: grey;
+    
   }
   
   .button {
